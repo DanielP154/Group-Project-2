@@ -1,6 +1,10 @@
 ﻿Group Project 2
 
-Jack Burke, Daniel Palomino, Shaan Patel, Zack Kendrick, John Bell![](Aspose.Words.0ef7835d-5781-4701-9f0a-d9027b1c8188.001.png)
+Jack Burke https://github.com/jgburke1
+
+Daniel Palomino https://github.com/DanielP154 Shaan Patel https://github.com/shaan101patel
+
+Zack Kendrick https://github.com/gzk07762 John Bell https://github.com/jcb10308![](Aspose.Words.f759409a-af8f-41f3-9bed-546c3e12ce9c.001.png)
 
 The dataset titled "Motor Vehicle Collisions - Crashes" is a collection of data on traffic collisions reported by the police in New York City. It was last updated on April 19, 2024, and includes information derived from the “MV-104AN” forms filled out by police officers for each collision event. These forms are mandatory for officers to fill out if there is an incident that results in injury, death, or at least $1,000 in damages.
 
@@ -24,7 +28,7 @@ This dataset is intended for public access and use, as specified under its acces
 
 What are the spatial distribution and hotspots of motor collisions within the region covered by the dataset?
 
-![](Aspose.Words.0ef7835d-5781-4701-9f0a-d9027b1c8188.002.jpeg)
+![](Aspose.Words.f759409a-af8f-41f3-9bed-546c3e12ce9c.002.jpeg)
 
 - To create the geospatial analysis, we utilized the map function along with the zip codes of New York and count of collisions in those specified zip codes. This allowed us to find the zip codes where motor vehicle collisions were most prevalent. Our map is highlighted from colors blue to orange based on the amount of collisions occurring in a given zip code. The more orange an area is, the more collisions that occur in that area.
 - The heat map reveals Brooklyn as a major hotspot for motor collisions, likely due to its dense population and complex road network. Factors like pedestrian traffic, intersections, and diverse driving could be likely contributors to this risk. Targeted interventions, such as improved enforcement and infrastructure, can enhance road safety in Brooklyn.
@@ -33,7 +37,7 @@ What are the spatial distribution and hotspots of motor collisions within the re
 
 What is the trend in the frequency of motor vehicle accidents over the past decade in dense and busy areas of New York? How does this trend compare to the other regions?
 
-![](Aspose.Words.0ef7835d-5781-4701-9f0a-d9027b1c8188.003.jpeg)
+![](Aspose.Words.f759409a-af8f-41f3-9bed-546c3e12ce9c.003.jpeg)
 
 - For the temporal trend analysis, we manipulated the data by using the crash date by year, the sum of person(s) killed and the sum of person(s) injured per year. Our graph is then filtered by boroughs to depict the rate of collisions in more dense and busy areas. We used these manipulations to find the severity and frequency of collisions each year based on the location and year.
 - Based on the visualization of severity/frequency by time, it can be drawn that the number of persons injured in motor vehicle accidents encounters high levels of variation. This causes the lines for each year to move closer towards the same values. However, the fatality data is more polarizing, illustrating high numbers of death in the earlier years of the data and lower numbers as the years grow on. This can most likely be attributed to stricter driving regulations and increased vehicular safety.
