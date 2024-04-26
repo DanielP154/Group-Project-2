@@ -8,7 +8,7 @@ Shaan Patel https://github.com/shaan101patel
 
 Zack Kendrick https://github.com/gzk07762
 
-John Bell https://github.com/jcb10308![](Aspose.Words.f759409a-af8f-41f3-9bed-546c3e12ce9c.001.png)
+John Bell https://github.com/jcb10308
 
 The dataset titled "Motor Vehicle Collisions - Crashes" is a collection of data on traffic collisions reported by the police in New York City. It was last updated on April 19, 2024, and includes information derived from the “MV-104AN” forms filled out by police officers for each collision event. These forms are mandatory for officers to fill out if there is an incident that results in injury, death, or at least $1,000 in damages.
 
